@@ -1,0 +1,10 @@
+dn: cn=user,dc=diditalready,dc=com
+objectClass: top
+objectClass: posixGroup
+cn: user
+gidNumber: 500
+
+dn: ou=dia, dc=diditalready,dc=com
+objectClass: top
+objectClass: organizationalUnit
+ou: dia
